@@ -1,7 +1,7 @@
-# STP503CA9 - Programming and Learning Systems
+# ST5039CMD - Programming and Operating Systems
 
 **Student:** Rijan Shrestha  
-**Module Code:ST5039CMD  
+**Module Code:** ST5039CMD  
 **Assignment:** Coursework - Individual Report
 
 ---
@@ -17,6 +17,12 @@ documentation for the OS Security assignment covering two tasks:
 ---
 
 ## Repository Structure
+
+task1/        - Frontend.c and Backend.c source code
+task2/        - Sandbox.c and untrusted test binaries
+docs/         - Research notes and test evidence logs
+README.md     - This file
+
 ---
 
 ## How to Build
